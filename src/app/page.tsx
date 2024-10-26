@@ -7,7 +7,6 @@ import ProjectSection from "../components/ProjectSection";
 import Skills from '../components/Skills';
 import ContactUs from '../components/ContactForm';
 import Contacts from "../components/Contacts"
-import Footer from "../components/Footer"; 
 import PolygonCard from '../components/PolygonCard';
 
 

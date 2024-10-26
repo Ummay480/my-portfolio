@@ -82,7 +82,7 @@ export const Header1: React.FC = () => {
       <div className="relative z-10 mx-auto p-4 sm:p-6 md:p-8 w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg backdrop-blur-lg bg-white bg-opacity-20 shadow-md border border-white/10 rounded-lg mt-64 sm:mt-60 mb-16 md:mb-12 lg:mt-48 lg:mb-12">
   <div className="flex justify-center px-6 py-5">
     <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-semibold text-center text-white">
-      Let's Connect
+      Let&apos;s Connect
     </h1>
   </div>
 </div>
