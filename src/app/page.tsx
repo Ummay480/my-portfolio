@@ -44,10 +44,7 @@ const HomePage: React.FC = () => {
       <ContactUs/>
 
             <Contacts/>
-
-    
-   
-    </main>
+   </main>
   );
 };
 
