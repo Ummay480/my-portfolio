@@ -19,6 +19,7 @@ const skills = [
   { title: "Shopify", image: "/assets/shopify-logo.svg" },
   { title: "Elementor", image: "/assets/elementor-logo.svg" },
   { title: "WooCommerce", image: "/assets/woocommerce-logo.svg" },
+  { title: "ShadCn", image: "/assets/shadcn-logo.png" },
 ];
 
 const Skills = () => {
